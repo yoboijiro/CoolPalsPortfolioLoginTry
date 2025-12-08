@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfolioLoginTry.exe.config
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfolioLoginTry.exe
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\bin\Debug\CoolPalsPortfolioLoginTry.pdb
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.Properties.Resources.resources
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.exe
+C:\Users\Admin\source\repos\CoolPalsPortfolioLoginTry\CoolPalsPortfolioLoginTry\obj\Debug\CoolPalsPortfolioLoginTry.pdb
