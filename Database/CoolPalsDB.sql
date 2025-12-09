@@ -20,10 +20,10 @@ CREATE TABLE Profiles (
 -- Insert Users
 INSERT INTO Users (Username, Password, Email)
 VALUES 
-('Clark', '1234', 'clark@email.com'),
-('Person2', 'abcd', 'p2@email.com'),
-('Person3', 'pass', 'p3@email.com'),
-('Person4', 'word', 'p4@email.com'),
+('Clark', '1234', 'quijadaclark@email.com'),
+('Gold ni Wally', 'araymopakak', 'egulssayosahparakangkalaban@gmail.com'),
+('Chuss', 'Chusama06', 'chuajared285@gmail.com'),
+('jirombalgbag', 'pogiako123', 'jirommapagmahal@gmail.com'),
 ('Person5', 'test', 'p5@email.com');
 
 -- Insert Profiles
@@ -32,18 +32,19 @@ VALUES
 (1, 'Sto. Rosario Montessori School', 'Sto. Rosario Montessori School', 'Our Lady Of Fatima Valenzuela', 'Pamantasan ng Lungsod ng Valenzuela',
  'Design, Singing, Dancing', 'Travel, Outdoors', 'Message to Sir Bill'),
 
-(2, 'Elementary School A', 'Junior High School A', 'Senior High School A', 'College A',
- 'Programming, Drawing', 'Gaming, Hiking', 'Keep pushing forward!'),
+(2, 'Marilao Central school', ' AFGBMTS', 'VPTNHS', 'Pamantasan ng Lungsod ng Valenzuela',
+ 'Drawing, Playing Instrument, Masaktan kahit walang karapatan', 'Playing sports, Online gaming, Listening to music, Workout, Magpasarap', 'Sarap mo sir Bill pakiss, solid mo maging Tc sana dika magbago sana ako parin hanggang dulo.'),
 
-(3, 'Elementary School B', 'Junior High School B', 'Senior High School B', 'College B',
- 'Writing, Public Speaking', 'Reading, Traveling', 'Always stay curious.'),
+(3, 'Colegio De Sta Cecilia', 'Gen. T. De Leon National High School', 'Gen. T. De Leon National High School', 'Pamantasan ng Lungsod ng Valenzuela',
+ 'Singing, Playing Guitar', 'Travelling, Playing Games, Motorcycle Rides', 'Matsalab Sir dahil sayo lumalakas nako maging Data Analyst'),
 
-(4, 'Elementary School C', 'Junior High School C', 'Senior High School C', 'College C',
- 'Sports, Leadership', 'Basketball, Volunteering', 'Teamwork makes the dream work.'),
+(4, 'Dona Ata Elementary School', 'Disiplina Village Bignal National High School', 'Bignay National High School', 'Pamantasan ng Lungsod ng Valenzuela',
+ 'Hair Cutting, Drawing', 'Listening to music, Basketball', 'stay humble gang!.'),
 
-(5, 'Elementary School D', 'Junior High School D', 'Senior High School D', 'College D',
+(5, 'Pasolo Elementary School', 'Valenzuela City School of Mathematics and Science', 'Our Lady Of Fatima Valenzuela', 'Pamantasan ng Lungsod ng Valenzuela',
  'Music, Photography', 'Singing, Exploring', 'Capture every moment.');
 
-
+ SELECT * FROM Users
+ SELECT * FROM Profiles
 
 DROP TABLE Profiles
